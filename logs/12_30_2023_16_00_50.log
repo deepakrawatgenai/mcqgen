@@ -1,0 +1,8 @@
+[2023-12-30 16:01:08,482] 1027 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-12-30 16:01:10,375] 1027 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-12-30 16:01:10,382] 25 root - INFO - <class 'str'>
+[2023-12-30 16:01:10,382] 38 root - INFO - <class 'list'>
+[2023-12-30 16:04:58,468] 1027 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-12-30 16:05:00,291] 1027 httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2023-12-30 16:05:00,306] 25 root - INFO - <class 'str'>
+[2023-12-30 16:05:00,306] 38 root - INFO - <class 'list'>
